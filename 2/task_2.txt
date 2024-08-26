@@ -1,0 +1,31 @@
+-Install VirtualBox.
+
+-Deploy three virtual machines:
+Windows 10
+Windows Server
+Kali Linux
+Install the operating systems from ISO images.
+
+-Allocate the following resources to each virtual machine:
+
+Windows 10:
+CPU: 4
+RAM: 4-6 GB
+Storage: 64 GB
+IP: 10.10.0.5 (static IP)
+Windows Server:
+
+CPU: 4-6
+RAM: 4-6 GB
+Storage: 64 GB
+IP: 10.10.0.4 (static IP)
+Kali Linux:
+
+CPU: 2
+RAM: 4 GB
+Storage: 48 GB
+IP: 10.10.0.6 (static IP)
+
+-Configure the network adapters using the NAT network.
+
+-Ensure that the VMs are in the same subnet. Perform a ping test to verify connectivity.
