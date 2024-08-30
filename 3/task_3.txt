@@ -1,0 +1,7 @@
+1) Scan the Network:
+Use network scanning tool nmap to identify active hosts, open ports, and running services within the subnet.
+Generate Custom Wordlists:
+
+2) Use Crunch to create custom wordlists based on patterns or templates that fit your target environment or attack scenario.
+
+3) Use Hydra to perform brute force attacks on various services, such as SSH, FTP, or web login pages, utilizing the generated wordlists.
