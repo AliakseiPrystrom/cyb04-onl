@@ -1,0 +1,14 @@
+1) Submit Your Homework as a GitHub Project:
+Upload your assignments in the form of a GitHub project.
+
+2) Study and Review the OSI Model:
+Use an existing OSI Model as a reference and create a cheat sheet to reinforce your understanding.
+Add at least three protocol examples for each layer of the OSI Model.
+Include examples of attacks that target different OSI layers.
+Study the descriptions and operating principles of these protocols.
+
+3) IPv4/IPv6 Subnetting and Conversion:
+Break down the network 192.168.0.0/25 into subnets ranging from /26 to /30 without using a calculator.
+Convert the following three IP addresses to IPv6: 192.168.100.1, 172.16.0.1, and 10.10.10.10. Review an article on IPv4/IPv6 for more context.
+
+4) Learn about NAT (Network Address Translation) technology.
